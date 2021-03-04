@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="adivina_el_numero.MainPage">
+
+    <StackLayout x:Name="fondo">
+
+        <Label Text=" Juegos de Magia " x:Name="ini" FontSize="Title" HorizontalOptions="Center" TextColor="White" />
+        <Label Text="------------Seleccione el Juego--------" FontSize="Large"  x:Name="lblinicio"
+               BackgroundColor="Red" />
+        
+        <Label Text="⬇️" x:Name="lblInstru" FontSize="Subtitle" HorizontalOptions="Center"
+               AnchorX="5000" BackgroundColor="Blue" TextColor="White"/>
+        
+        <Picker x:Name="menu" SelectedIndexChanged="menu_SelectedIndexChanged" BackgroundColor="GreenYellow"/>
+        
+        <Label Text=" "/>
+        
+        <Label Text=" " FontSize="Medium" x:Name="lblres"/>
+        
+        <Entry Placeholder="Ingrese el Numero" TextColor="Black"
+               BackgroundColor="Yellow" FontSize="Medium" x:Name="resul" 
+               HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+        
+        <Label Text=" " x:Name="Ultres" FontSize="Title" TextColor="RED"
+               VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="Transparent"/>
+
+        <Button Text="INICIAR" x:Name="inicio" Clicked="inicio_Clicked"
+                VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="YellowGreen"
+                TextColor="White"/>
+
+        <Button Text="Continuar" x:Name="Cont1" Clicked="Cont1_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        
+        <Button Text="Continuar" x:Name="Cont2" Clicked="Cont2_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        
+        <Button Text="Continuar" x:Name="Cont3" Clicked="Cont3_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        
+        <Button Text="Continuar" x:Name="Cont4" Clicked="Cont4_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+
+        <Button Text="Continuar" x:Name="Cont5" Clicked="Cont5_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+
+        <Button Text="Continuar" x:Name="Cont6" Clicked="Cont6_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        <Button Text="Continuar" x:Name="Cont7" Clicked="Cont7_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        <Button Text="Continuar" x:Name="Cont8" Clicked="Cont8_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        <Button Text="Continuar" x:Name="Cont9" Clicked="Cont9_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        <Button Text="Continuar" x:Name="Cont10" Clicked="Cont10_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+        <Button Text="Continuar" x:Name="Cont11" Clicked="Cont11_Clicked"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="End" />
+
+        <Button Text="Salir" x:Name="salir" Clicked="salir_Clicked"
+                VerticalOptions="Center" HorizontalOptions="Center" />
+
+
+
+
+
+
+
+
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\bin\Debug\netstandard2.0\adivina_el_numero.deps.json
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\bin\Debug\netstandard2.0\adivina_el_numero.dll
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\bin\Debug\netstandard2.0\ref\adivina_el_numero.dll
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\bin\Debug\netstandard2.0\adivina_el_numero.pdb
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\adivina_el_numero.csprojAssemblyReference.cache
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\adivina_el_numero.AssemblyInfoInputs.cache
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\adivina_el_numero.AssemblyInfo.cs
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\adivina_el_numero.csproj.CoreCompileInputs.cache
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\adivina_el_numero.dll
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\ref\adivina_el_numero.dll
+C:\Users\ramos\source\repos\adivina_el_numero\adivina_el_numero\adivina_el_numero\obj\Debug\netstandard2.0\adivina_el_numero.pdb
